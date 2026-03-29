@@ -24,3 +24,9 @@
   - **Fix Grammar** — Select text in any app, trigger the command via Raycast, and the corrected text is copied to your clipboard.
   - **Translate** — Open Raycast, type the command, paste your Hebrew text as the argument, and get the English translation on your
   clipboard
+
+
+
+**Fix Grammar Example**
+https://github.com/user-attachments/assets/06302dba-1842-405e-a193-baac1edbe396
+
